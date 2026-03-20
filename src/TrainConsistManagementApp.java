@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class TrainConsistApp {
+public class TrainConsistManagementApp {
 
     public static void main(String[] args) {
 
